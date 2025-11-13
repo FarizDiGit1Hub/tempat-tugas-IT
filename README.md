@@ -1,9 +1,8 @@
 # read me
 disini tempat dimana kamu menyimpan tugas IT, bisa yang lain juga sih, cuman ya gitu lah...
 
-btw, band favorit aku sekarang:
 
-
+Tsukuyomi
 
 
 
@@ -11,10 +10,12 @@ Radiohead
 
 
 
+Yorushika
 
 
 
 
 
 
-gabut jir aku bikin readme ini, gak terlalu penting.
+
+gabut aku bikin readme ini, gak terlalu penting.
